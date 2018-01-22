@@ -1,4 +1,11 @@
-# IASC-2P02
-Repository for IASC 2P02 course.
-Hello World!
-GitHub is cool.
+# IASC 2P02 | Domenic Di Tella
+
+## About Me
+
+My bio goes here. 
+
+!![](images/matrix.jpg)
+
+## Blog Post
+
+First sentence of blog post goes here...
