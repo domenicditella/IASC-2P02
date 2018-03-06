@@ -1,11 +1,10 @@
 # IASC 2P02 | Domenic Di Tella
 
 ## About Me
-
-My bio goes here. 
+My name is Domenic Di Tella and I am a second year student at brock. My major is Interactive Arts & Science.
 
 !![](images/matrix.jpg)
 
 ## Blog Post
 
-First sentence of blog post goes here...[continue reading](blog)
+Less is More? Franco Moretti, an literary scholar, claims that we must stop reading books in order to understand literature....[continue reading](blog)
