@@ -3,7 +3,7 @@
 ## About Me
 My name is Domenic Di Tella and I am a second year student at brock. My major is Interactive Arts & Science.
 
-!![](images/matrix.jpg)
+[](images/matrix.jpg)
 
 ## Blog Post
 
