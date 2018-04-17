@@ -1,4 +1,4 @@
-# IASC 2P02 | Domenic Di Tella
+# IASC 2P02 | Domenic Di Tella's Portfolio
 
 ## About Me
 My name is Domenic Di Tella and I’m a second year student attending Brock University. My major is Interactive Arts and Science, a program that focuses on the intersection of interactive technologies and the humanities. Within the realm of digital humanities, my specialization is media archeology. The research program is a field that tries to grasp the relation between emerging media and media of the past. My existing projects are reflective of my specialization in media archaeology. They focus on the examination of the past and offer concepts of how the past directly affects the future of technology. This specific type of exertion will benefit me in the future by extending my communication skills and helping me understand the root of certain types of technology. This is important to gain more foundational knowledge to improve upon technology in the future.
